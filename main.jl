@@ -9,3 +9,6 @@ function saludo_personalizado(nombre::String)
 end
 
 saludo_personalizado("Compañero")
+
+#Solucion de conflictos
+println("Version A")
