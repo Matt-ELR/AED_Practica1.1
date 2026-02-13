@@ -11,4 +11,4 @@ end
 saludo_personalizado("Compañero")
 
 #Solucion de conflictos
-println("Version C")
+println("Version B")
